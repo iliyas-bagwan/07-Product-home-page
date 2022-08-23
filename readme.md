@@ -6,5 +6,9 @@
 * Applying position property such as _**relative**_ and _**absolute**_ and defining left, right, top, bottom to meet the requirement.
 * Adding asset images.
 * Adding border radius.
+* Adding **Resposiveness** to webpage using media-query.
+* Applying suitable alignment to the bigger divs to look better on small devices.
 
-![thumbnail](screenShot.png)
+![thumbnail](thumb1.png)
+![thumbnail](thumb2.png)
+![thumbnail](thumb3.png)
